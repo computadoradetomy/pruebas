@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+}
+
+header {
+    display: flex;
+    min-height: 70px;
+    background-color: #0d6efd;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+}
+
+.banner {
+    margin-top: 1;
+    margin-bottom: 1;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+section {
+    border: 2px solid gainsboro;
+    border-radius: 18px;
+    padding: 20px;
+}
+
+h5 {
+    text-align: center;
+}
+
+/* Márgenes */
+main {
+    margin-top: 1;
+    margin-bottom: 1;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.empleador {
+    position: relative;
+    top: 40px; left: 40px;
+}
+
+.trabajo {
+    border: 2px solid gainsboro;
+    padding: 35px;
+    width: 730px;
+    margin: 465px;
+    margin-top: 50px;
+}
+
+.puesto {
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    padding: 50px;
+    text-align: center;
+    background: #E6E6E6;
+    margin-top: 100px;
+}
